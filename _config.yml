@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jwcn.github.io
+title: 江伟的博客
+email: jw90098@gmail.com
+author: 江伟(jw)
+description: 江伟的博客
+paginate: 3
+google_analytics: 
