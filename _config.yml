@@ -1,10 +1,10 @@
-excerpt_separator: ""
+excerpt_separator: "<!-- more -->"
 pygments: true
 markdown: kramdown
 url: http://jwcn.github.io
-title: ½­Î°µÄ²©¿Í
+title: æ±Ÿä¼Ÿçš„åšå®¢
 email: jw90098@gmail.com
-author: ½­Î°(jw)
-description: ½­Î°µÄ²©¿Í
+author: æ±Ÿä¼Ÿ(jw)
+description: æ±Ÿä¼Ÿçš„åšå®¢
 paginate: 3
 google_analytics: 
